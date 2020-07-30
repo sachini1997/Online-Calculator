@@ -5,3 +5,4 @@ Basic calculator with simple calculations with superfast and efficient.
 Easily recognizable User Interface and Gradient colors make it awesome.
 
 ## Technologies
+1.html
