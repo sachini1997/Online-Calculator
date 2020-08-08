@@ -6,3 +6,4 @@ Easily recognizable User Interface and Gradient colors make it awesome.
 
 ## Technologies
 1.html
+2.css
